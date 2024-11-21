@@ -1,0 +1,96 @@
+body{background:#EEEEEE;}
+
+.main_div{background:#424242; 
+display:flex; 
+justify-content:center; 
+align-items:center; 
+height:50px; 
+color:white;}
+.main_div h3{}
+
+.box2 ul{display:flex; 
+margin-top:20px;  
+margin-left:250px;  
+font-weight:bold;
+font-size:17px;}
+.box2 ul li{margin-left:25px; 
+list-style:none;}
+.box2 ul li a{text-decoration:none; 
+color:white;}
+.box2 a:hover{color:yellow;border:solid 2px white;}
+
+.login button{color:white; 
+background:blue; 
+font-weight:bold; 
+height:30PX; 
+font-size:20px; 
+width:80PX;
+margin-left:20px;
+border-radius:50px; 
+border:none;}
+.login button:hover{color:blue; background:white;}
+ 
+.content{font-weight:bold; 
+font-size:20px;
+padding-left:20px;}
+ 
+.contener{background:white;
+height:60px;
+width:63rem;
+display:flex;
+justify-content:center;
+align-items:center;
+margin-top:20px;}
+ 
+.custmer{display:flex;
+justify-content:center;
+align-items:center;
+font-weight:bold;
+font-size:20px;
+height:40px;}
+
+.left{margin-right:45px;}
+ 
+.find{ height:40px; 
+display:flex; 
+justify-content:center;
+align-items:center;
+margin-left:290px;}
+.find input{height:30px; 
+width:260px; } 
+
+.btn_search{
+height:40px; 
+display:flex; 
+justify-content:center;
+align-items:center; 
+margin-left:20px;}
+ 
+.btn_search input{height:30px; 
+color:white; 
+background:#73EC8B;
+font-weight:bold;
+border:none; width:100px; margin-left:10px;} 
+.btn_search input:hover{color:blue; }
+
+.challan{height:40px; 
+display:flex; 
+justify-content:center; 
+align-items:center;
+}
+.challan input{background:#73EC8B; 
+height:30px; 
+width:200px; 
+color:white; 
+font-weight:bold;
+border:none;}
+.challan input:hover{color:blue;}
+
+.type{background:#424242;
+height:30px; 
+margin-top:10rem; 
+display:flex; 
+justify-content:center; 
+align-items:center;
+color:white;}
+
