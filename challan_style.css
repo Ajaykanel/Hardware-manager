@@ -1,0 +1,37 @@
+body{margin:0px;}
+
+.main_div{background:pink; height:810px;  border:2px solid black;
+ width:80%; display:flex; justify-content:center; margin-left:100px;}
+
+.main_div h2{display:flex; justify-content:center; align-items:center;}
+.contener{display:flex; justify-content:center; 
+height:40px; align-items:center;}
+
+.gst{height:30px; display:flex; align-items:center; justify-content:center; 
+margin-right:500px;}
+.num{height:30px;  display:flex;align-items:center; justify-content:center;}
+
+.name{margin-top:20px; display:flex; justify-content:center; 
+align-items:center; font-size:50px;}
+
+.item{margin-top:10px;
+ display:flex; justify-content:center; 
+align-items:center; font-size:30px;
+width:60%;
+height:50px;
+margin-left:25%;
+border-radius:10px;
+border:2px solid black;
+}
+
+.address{color:red; border:none; margin-top:10px;}
+
+.customer{margin-top:10px;  margin-bottom:10px;display:flex; justify-content:center; 
+align-items:center; font-size:40px;}
+
+
+.tb{display:flex; justify-content:center; align-items:center;}
+
+.sin{display:flex; margin-top:20px;  
+font-size:30px;justify-content:right; align-items:right;}
+
